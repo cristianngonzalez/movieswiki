@@ -1,0 +1,19 @@
+footer{
+  background: #9c255d;
+  color: white;
+  height: 100px;
+  border-top: 5px solid #5e1539;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 30px;
+
+  width: 100%;
+  position:absolute; 
+  top: 100%;
+  bottom:0; 
+  left:0; 
+}
+
+h6{
+  margin-top: 10px;
+}
